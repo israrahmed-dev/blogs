@@ -29,6 +29,7 @@ This is an [absolute link](/folder1/sub-dir1/post3.md) which links to another po
 
 ## Example
 
+
 ```javascript
 fetch('https://api.example.com/data')
   .then(res => res.json())
