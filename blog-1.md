@@ -25,7 +25,7 @@ This is an [absolute link](/folder1/sub-dir1/post3.md) which links to another po
 ### Section with HTML
 
 
-`fetch()` is a modern way to make HTTP requests in JavaScript.
+```javascript `fetch()` is a modern way to make HTTP requests in JavaScript.
 
 ## Example
 
