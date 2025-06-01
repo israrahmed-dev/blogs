@@ -24,24 +24,6 @@ This is an [absolute link](/folder1/sub-dir1/post3.md) which links to another po
 
 ### Section with HTML
 
-<section id="home">
-    <h2>Welcome to Our Website!</h2>
-    <p>This is a sample HTML page with JavaScript and CSS styling.</p>
-    <button type="button" onclick="showMessage()">Show message</button>
-</section>
-
-<script>
-    function showMessage() {
-        alert('Thank you for contacting us!');
-    }
-</script>
-
-<!-- Sample CSS Style -->
-<style>
-    h1 {
-        color: red;
-    }
-</style>
 
 `fetch()` is a modern way to make HTTP requests in JavaScript.
 
