@@ -42,3 +42,13 @@ This is an [absolute link](/folder1/sub-dir1/post3.md) which links to another po
         color: red;
     }
 </style>
+
+`fetch()` is a modern way to make HTTP requests in JavaScript.
+
+## Example
+
+```javascript
+fetch('https://api.example.com/data')
+  .then(res => res.json())
+  .then(data => console.log(data))
+  .catch(err => console.error(err));
